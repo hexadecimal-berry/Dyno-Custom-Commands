@@ -16,8 +16,8 @@ Advaith is one of the founders of DCC. He also made AdvaithBot and some other co
 [@MrMastersword](https://www.github.com/MrMastersword)<br/>
 MrMastersword is a web developer with a passion for ingenuity. MrMastersword's creations always reflect his utmost goal of creating the perfect website. You can find MrMastersword @mrmastersword#0042 or online at mastersword.big-brother.ga
 
-[@RenderedPix](https://github.com/RenderedPix)<br/>
-A 19 year old girl that moderates the DCC server and helps with support! That's Melissa! Gaming is her thing, if you're not a gamer, then what are you doing with your life? Find her on Discord! Petabyte#0628.
+[@RenderedPix / @hexadecimal-berry](https://github.com/hexadecimal-berry)<br/>
+Pix / Berry is a Main Helper and a minor maintainer of Dyno Custom Commands! She also assists in moderating Dyno Custom Commands's Discord server! She can be contacted via Discord: Bit#4930
 <br/>
 <br/>
 
